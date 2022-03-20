@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://source.unsplash.com/1600x900/?landscape");
+}
+
+.card {
+  background: #000000d0;
+  color: white;
+  padding: 2em;
+  max-width: 420px;
+}
